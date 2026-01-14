@@ -88,5 +88,11 @@ project [blink.js](https://github.com/robalb/x86-64-blink-js)
 The logo for this website is based on work distributed under the Creative Commons Attribution License [CC BY 3.0](https://creativecommons.org/publicdomain/mark/1.0/)
 by [Nur Achmadi Yusuf](https://thenounproject.com/icon/wizard-hat-6586306/)
 
+## 🙏 Credits
+
+This project is based on [x86-64-playground](https://github.com/robalb/x86-64-playground) by [@robalb](https://github.com/robalb).
+
+Thank you for creating this excellent x86-64 assembly playground!  ⭐
+
 
 
